@@ -207,6 +207,28 @@ nav{
     #testimoni{
         padding: 2rem;
     }
+    #Kotak{
+        padding: 2rem;
+    }
+    .Kontak-container{
+        flex-direction: column;
+    }
+
+}
+
+#Kontak{
+    background-color: whitesmoke;
+    padding: 5rem;
+}
+
+#Kontak h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+.Kontak-container{
+    display: flex;
+    align-items: center;
 }
 
 
